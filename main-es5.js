@@ -51,7 +51,7 @@ module.exports = "<div class=\"container\">\n    <h4>CONTACT US</h4>\n    <p>Ple
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"container-fluid\" id=\"footer\" >\n    <div class=\"container\" style=\"padding:10px;\">\n        <div class=\"container\">\n            <br>\n              <div id=\"footer\" class=\"row\" style=\"margin-top: 50px;\">\n                  <div class=\"col-lg-4 col-xs-12\">\n                    <p>What we offer</p> \n                    <hr>\n                    <ul>\n                        <li>Tree felling and Trimming</li>\n                        <li>Site clearing and stump removal</li>\n                        <li>Palm trimming and grass cutting</li>\n                    </ul>      \n                  </div>\n              \n                  <div class=\"col-lg-4 col-xs-12  \">\n                      <p>Provinces that we now cover</p>\n                      <hr/>\n                          <ul>\n                              <li>Eastern Cape</li>\n                              <li>Free State</li>\n                              <li>Gauteng</li>\n                              <li>KwaZulu-Natal</li>\n                              <li>Limpopo</li>\n                              <li>Mpumalanga</li>\n                              <li>North West</li>\n                              <li>Northern Cape</li>\n                              <li>Western Cape</li>\n                          </ul>                            \n                  </div>\n              \n                  <div class=\"col-lg-4 col-xs-12  \">\n                      <p>CONTACT US</p>\n                      <hr/> \n                      <p>\n                        For any information regarding the companies services. </p>                   \n                       <div class=\"row\">\n                           <div class=\"col-lg-4\">\n                           <p>   Visit Us At :</p> \n                           </div>\n                           <div class=\"col-lg-8\">\n                              <p>1 Helston Road,<br> Westridge, Berea,<br>Durban, 4091.</p>\n                          </div>\n                       </div>  \n  \n                      <div class=\"row\">\n                              <div class=\"col-lg-12\">\n                                  <p> \n                                    <span style=\"margin: 6px;\"><mat-icon matPrefix>call</mat-icon></span><b>Landline : </b> +27 (0) 31 261 1907 <br> <b>Or     : </b> +27 (0) 31 829 9130 <br>\n                                    <span style=\"margin: 6px;\"><mat-icon matPrefix>stay_current_portrait</mat-icon></span><b>Mobile : </b>+27 (0) 78 253 9442  <br>\n                                    <span style=\"margin: 6px;\"><mat-icon matPrefix>mail</mat-icon></span><b>Email  : </b>\n                                    <a href=\"mailto:info@tau-treefelling?Subject=Hello%20again\" target=\"_top\">info@tau-treefelling.co.za</a>  <br> \n                              </p> \n                             </div>\n                          </div>                              \n                                                               \n                  </div>  \n              </div>\n              \n              <div class=\"row\">\n                <div class=\"col-lg-8 col-md-8 col-sm-12\">\n                    <p> &copy; Tree - Felling : Copyright &copy; 2020 - All rights reserved</p>\n                </div>\n              </div>\n          </div>\n  \n    </div>  \n  </div>\n"
+module.exports = "<div class=\"container-fluid\" id=\"footer\" >\n    <div class=\"container\" style=\"padding:10px;\">\n        <div class=\"container\">\n            <br>\n              <div id=\"footer\" class=\"row\" style=\"margin-top: 50px;\">\n                  <div class=\"col-lg-4 col-xs-12\">\n                    <p><b>What we offer</b></p> \n                    <hr>\n                    <ul>\n                        <li>Tree felling and Trimming</li>\n                        <li>Site clearing and stump removal</li>\n                        <li>Palm trimming and grass cutting</li>\n                    </ul>      \n                  </div>\n              \n                  <div class=\"col-lg-4 col-xs-12  \">\n                      <p><b>Provinces that we now cover</b></p>\n                      <hr/>\n                          <ul>\n                              <li>Eastern Cape</li>\n                              <li>Free State</li>\n                              <li>Gauteng</li>\n                              <li>KwaZulu-Natal</li>\n                              <li>Limpopo</li>\n                              <li>Mpumalanga</li>\n                              <li>North West</li>\n                              <li>Northern Cape</li>\n                              <li>Western Cape</li>\n                          </ul>                            \n                  </div>\n              \n                  <div class=\"col-lg-4 col-xs-12  \">\n                      <p><b>Contact Us</b></p>\n                      <hr/> \n                      <p>\n                        For any information regarding the companies services. </p>                   \n                       <div class=\"row\">\n                           <div class=\"col-lg-4\">\n                           <p>   Visit Us At :</p> \n                           </div>\n                           <div class=\"col-lg-8\">\n                              <p>1 Helston Road,<br> Westridge, Berea,<br>Durban, 4091.</p>\n                          </div>\n                       </div>  \n  \n                      <div class=\"row\">\n                              <div class=\"col-lg-12\">\n                                  <p> \n                                    <span style=\"margin: 6px;\"><mat-icon matPrefix>call</mat-icon></span><b>Landline : </b> +27 (0) 31 261 1907 <br> <b>Or     : </b> +27 (0) 31 829 9130 <br>\n                                    <span style=\"margin: 6px;\"><mat-icon matPrefix>stay_current_portrait</mat-icon></span><b>Mobile : </b>+27 (0) 78 253 9442  <br>\n                                    <span style=\"margin: 6px;\"><mat-icon matPrefix>mail</mat-icon></span><b>Email  : </b>\n                                    <a href=\"mailto:info@tau-treefelling?Subject=Hello%20again\" target=\"_top\">info@tau-treefelling.co.za</a>  <br> \n                              </p> \n                             </div>\n                          </div>                              \n                                                               \n                  </div>  \n              </div>\n              \n              <div class=\"row\">\n                <div class=\"col-lg-8 col-md-8 col-sm-12\">\n                    <p> &copy; Tree - Felling : Copyright &copy; 2020 - All rights reserved</p>\n                </div>\n              </div>\n          </div>\n  \n    </div>  \n  </div>\n"
 
 /***/ }),
 
@@ -73,7 +73,7 @@ module.exports = "<div class=\"container\">\n    <h4>Our Gallery</h4>\n  <hr>\n 
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<section fxLayout=\"column\" fxFlexAlign=\"stretch\">\n    <div fxFlexAlign=\"center\">\n      <h3>Welcome to Tree Felling</h3>\n    </div>\n    <app-banner></app-banner>\n    \n   </section>\n   "
+module.exports = "<section fxLayout=\"column\" fxFlexAlign=\"stretch\">\n    <div fxFlexAlign=\"center\">\n      <h3>Welcome to Tree Felling</h3>\n    </div>\n    <app-banner></app-banner>\n    <br>\n\n    <div class=\"flex-container\" \n        fxLayout=\"row\" \n        fxLayout.xs=\"column\">\n      <div class=\"flex-item\" fxFlex=70 style=\"border: 2px green solid;\"> \n        <app-request-qoute></app-request-qoute>\n      </div>\n      <div class=\"flex-item\" fxFlex=30> \n        <img  class=\"img-responsive\" width=\"100%\" src=\"assets/images/logo/logo_1.jpg\"/>\n      </div>\n    </div> \n    \n</section>\n   "
 
 /***/ }),
 
@@ -107,6 +107,17 @@ module.exports = "<mat-toolbar color=\"primary\">\n    <div fxHide.gt-xs>\n     
 /***/ (function(module, exports) {
 
 module.exports = "<mat-nav-list>\n    <a mat-list-item routerLink=\"/home\" (click)=\"onSidenavClose()\">\n      <mat-icon>home</mat-icon> <span class=\"nav-caption\">Home</span>\n    </a>\n    <a mat-list-item routerLink=\"/aboutus\" (click)=\"onSidenavClose()\">\n      <mat-icon>account_balance</mat-icon><span class=\"nav-caption\">About Us</span>\n    </a>\n    <a mat-list-item routerLink=\"/services\" (click)=\"onSidenavClose()\">\n      <mat-icon>add_photo_alternate</mat-icon><span class=\"nav-caption\">Services</span>\n    </a>\n    <a mat-list-item routerLink=\"/gallery\" (click)=\"onSidenavClose()\">\n      <mat-icon>add_photo_alternate</mat-icon><span class=\"nav-caption\">Gallery</span>\n    </a>\n    <a mat-list-item routerLink=\"/contactus\" (click)=\"onSidenavClose()\">\n      <mat-icon>local_post_office</mat-icon><span class=\"nav-caption\">Contact Us</span>\n    </a>\n  </mat-nav-list>"
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/index.js!./src/app/request-qoute/request-qoute.component.html":
+/*!**************************************************************************************!*\
+  !*** ./node_modules/raw-loader!./src/app/request-qoute/request-qoute.component.html ***!
+  \**************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<mat-card style=\"margin-bottom: 15px;\"  color=\"primary\">\n  <mat-card-header  color=\"primary\">\n     <mat-card-title> <h4 class=\"site-text\">Request Qoute</h4></mat-card-title>\n     <hr>\n </mat-card-header>\n <!-- <img mat-card-image src=\"assets/images/home/home_2.jpg\" alt=\"Photo of a Shiba Inu\"> -->\n <mat-card-content>\n  <form [formGroup]=\"RequestQouteForm\" autocomplete=\"off\" class=\"col-12 white\" (ngSubmit)=\"OnSubmit(RequestQouteForm)\" (blur)=\"logValidationErrors()\">\n        <div class=\"input-field-class\">\n\n          <div class=\"row\">\n            <mat-form-field  class=\"col-12\">\n              <mat-label>Full Name</mat-label>\n              <input matInput placeholder=\"Full Name\" #fullName ngModel formControlName=\"fullName\" (blur)=\"logValidationErrors()\">\n              <mat-icon matPrefix>person_outline</mat-icon>\n              <mat-error *ngIf=\"formErrors.fullName\"><b>{{formErrors.fullName}}</b></mat-error>\n            </mat-form-field>\n          </div>\n\n          <div class=\"row\">\n            <mat-form-field  class=\"col\">\n              <mat-label>Email Address</mat-label>    \n              <input matInput placeholder=\"Email Address\" #emailAddress ngModel formControlName=\"emailAddress\" (blur)=\"logValidationErrors()\">\n              <mat-icon matPrefix>mail</mat-icon>\n              <mat-error *ngIf=\"formErrors.emailAddress\"><b>{{formErrors.emailAddress}}</b></mat-error>\n            </mat-form-field>\n          \n            <mat-form-field  class=\"col\">\n              <mat-label>Contact Phone No.</mat-label>    \n              <input matInput placeholder=\"Contact Phone Number\" #contactPhoneNumber ngModel formControlName=\"contactPhoneNumber\" (blur)=\"logValidationErrors()\">\n              <mat-icon matPrefix>call</mat-icon>\n              <mat-error *ngIf=\"formErrors.contactPhoneNumber\"><b>{{formErrors.contactPhoneNumber}}</b></mat-error>\n            </mat-form-field>\n          </div>\n\n          <div class=\"row\">\n              <mat-form-field class=\"col stretch-height\" >\n                  <mat-label>Any additional Notes</mat-label>\n                  <textarea matInput rows=\"5\" (keyup)=\"applyFilter($event.target.value)\"  placeholder=\"Message\" formControlName=\"message\" (blur)=\"logValidationErrors()\"></textarea>\n                  <mat-error *ngIf=\"formErrors.message\"><b>{{formErrors.message}}</b></mat-error>\n                </mat-form-field>\n          </div>\n\n          <div class=\"row s12\">\n            <button color=\"primary\" [disabled]=\"!RequestQouteForm.valid\" mat-raised-button>Request</button>\n          </div>\n        </div>\n     </form>\n </mat-card-content>\n</mat-card> "
 
 /***/ }),
 
@@ -329,12 +340,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _shared_services_email_service_email_service__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./shared/services/email-service/email.service */ "./src/app/shared/services/email-service/email.service.ts");
 /* harmony import */ var _shared_services_image_service_image_service__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./shared/services/image-service/image.service */ "./src/app/shared/services/image-service/image.service.ts");
 /* harmony import */ var ngx_toastr__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ngx-toastr */ "./node_modules/ngx-toastr/fesm5/ngx-toastr.js");
+/* harmony import */ var _request_qoute_request_qoute_component__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./request-qoute/request-qoute.component */ "./src/app/request-qoute/request-qoute.component.ts");
 var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
+
 
 
 
@@ -374,6 +387,7 @@ var AppModule = /** @class */ (function () {
                 _services_services_component__WEBPACK_IMPORTED_MODULE_16__["ServicesComponent"],
                 _contactus_contactus_component__WEBPACK_IMPORTED_MODULE_17__["ContactusComponent"],
                 _gallery_gallery_component__WEBPACK_IMPORTED_MODULE_18__["GalleryComponent"],
+                _request_qoute_request_qoute_component__WEBPACK_IMPORTED_MODULE_22__["RequestQouteComponent"],
             ],
             imports: [
                 _angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"].withServerTransition({ appId: 'ng-cli-universal' }),
@@ -1018,6 +1032,152 @@ var SidenavListComponent = /** @class */ (function () {
         __metadata("design:paramtypes", [])
     ], SidenavListComponent);
     return SidenavListComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/request-qoute/request-qoute.component.css":
+/*!***********************************************************!*\
+  !*** ./src/app/request-qoute/request-qoute.component.css ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "::ng-deep .mat-card-header{\r\n    background-color: #12882f !important;\r\n  } \r\n  \r\n  ::ng-deep .mat-card-title{\r\n    color: white;\r\n    padding-top: 10px;\r\n  } \r\n  \r\n  ::ng-deep .mat-card-content{\r\n    padding:5px !important;\r\n  }\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcmVxdWVzdC1xb3V0ZS9yZXF1ZXN0LXFvdXRlLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxvQ0FBb0M7RUFDdEM7O0VBRUE7SUFDRSxZQUFZO0lBQ1osaUJBQWlCO0VBQ25COztFQUVBO0lBQ0Usc0JBQXNCO0VBQ3hCIiwiZmlsZSI6InNyYy9hcHAvcmVxdWVzdC1xb3V0ZS9yZXF1ZXN0LXFvdXRlLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyI6Om5nLWRlZXAgLm1hdC1jYXJkLWhlYWRlcntcclxuICAgIGJhY2tncm91bmQtY29sb3I6ICMxMjg4MmYgIWltcG9ydGFudDtcclxuICB9IFxyXG4gIFxyXG4gIDo6bmctZGVlcCAubWF0LWNhcmQtdGl0bGV7XHJcbiAgICBjb2xvcjogd2hpdGU7XHJcbiAgICBwYWRkaW5nLXRvcDogMTBweDtcclxuICB9XHJcbiAgXHJcbiAgOjpuZy1kZWVwIC5tYXQtY2FyZC1jb250ZW50e1xyXG4gICAgcGFkZGluZzo1cHggIWltcG9ydGFudDtcclxuICB9Il19 */"
+
+/***/ }),
+
+/***/ "./src/app/request-qoute/request-qoute.component.ts":
+/*!**********************************************************!*\
+  !*** ./src/app/request-qoute/request-qoute.component.ts ***!
+  \**********************************************************/
+/*! exports provided: RequestQouteComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "RequestQouteComponent", function() { return RequestQouteComponent; });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+/* harmony import */ var ngx_toastr__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ngx-toastr */ "./node_modules/ngx-toastr/fesm5/ngx-toastr.js");
+/* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/forms */ "./node_modules/@angular/forms/fesm5/forms.js");
+/* harmony import */ var _shared_services_email_service_email_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../shared/services/email-service/email.service */ "./src/app/shared/services/email-service/email.service.ts");
+var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (undefined && undefined.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+var RequestQouteComponent = /** @class */ (function () {
+    function RequestQouteComponent(toastr, fb, emailService) {
+        var _this = this;
+        this.toastr = toastr;
+        this.fb = fb;
+        this.emailPattern = "^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$";
+        // This object will hold the messages to be displayed to the user
+        // Notice, each key in this object has the same name as the
+        // corresponding form control
+        this.formErrors = {
+            'fullName': '',
+            'emailAddress': '',
+            'contactPhoneNumber': '',
+            'message': ''
+        };
+        // This object contains all the validation messages for this form
+        this.validationMessages = {
+            'fullName': {
+                'required': 'Full name is required.',
+                'minlength': 'Full name must be greater than 2 characters.',
+                'maxlength': 'Full name must be less than 100 characters.'
+            },
+            'emailAddress': {
+                'required': 'Email address is required.',
+                'minlength': 'Email address address must be greater than 11 characters.',
+                'maxlength': 'Email address address must be less than 150 characters.',
+                'emailDomain': 'Email address domian should be devine-tech.com'
+            },
+            'contactPhoneNumber': {
+                'required': 'Phone number is required.',
+                'minlength': 'Phone number must be greater than 5 characters.',
+                'maxlength': 'Phone number must be less than 150 characters.',
+            },
+            'message': {
+                'required': 'Message is required.',
+                'minlength': 'Message must be greater than 5 characters.',
+                'maxlength': 'Message must be less than 150 characters.',
+            }
+        };
+        this.hasError = function (controlName, errorName) {
+            return _this.RequestQouteForm.controls[controlName].hasError(errorName);
+        };
+    }
+    RequestQouteComponent.prototype.ngOnInit = function () {
+        var _this = this;
+        this.RequestQouteForm = this.fb.group({
+            fullName: new _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormControl"]('', [_angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].required, _angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].minLength(5), _angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].maxLength(60)]),
+            emailAddress: new _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormControl"]('', [_angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].required, _angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].minLength(11), _angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].maxLength(150)]),
+            contactPhoneNumber: new _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormControl"]('', [_angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].required, _angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].minLength(2), _angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].maxLength(60)]),
+            message: new _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormControl"]('', [_angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].required, _angular_forms__WEBPACK_IMPORTED_MODULE_2__["Validators"].maxLength(200)]),
+        });
+        this.RequestQouteForm.valueChanges.subscribe(function (data) {
+            _this.logValidationErrors(_this.RequestQouteForm);
+        });
+    };
+    RequestQouteComponent.prototype.logValidationErrors = function (group) {
+        var _this = this;
+        if (group === void 0) { group = this.RequestQouteForm; }
+        Object.keys(group.controls).forEach(function (key) {
+            var abstractControl = group.get(key);
+            _this.formErrors[key] = '';
+            if (abstractControl && !abstractControl.valid
+                && (abstractControl.touched || abstractControl.dirty)) {
+                var messages = _this.validationMessages[key];
+                for (var errorKey in abstractControl.errors) {
+                    if (errorKey) {
+                        _this.formErrors[key] += messages[errorKey] + ' ';
+                    }
+                }
+            }
+            if (abstractControl instanceof _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormGroup"]) {
+                _this.logValidationErrors(abstractControl);
+            }
+        });
+    };
+    RequestQouteComponent.prototype.OnSubmit = function (form) {
+        // var formData = form.value;
+        // const userData: User = this.getUserInformation(formData)
+        // this.userService.registerUser(userData)
+        //   .subscribe((data: any) => {
+        //     if (data.succeeded == true) {
+        //       this.resetForm(form);
+        //       this.toastr.success('User registration successful', "Success!");
+        //     }
+        //     else
+        //       this.toastr.error(data.errors[0].description);
+        //   });
+    };
+    RequestQouteComponent.ctorParameters = function () { return [
+        { type: ngx_toastr__WEBPACK_IMPORTED_MODULE_1__["ToastrService"] },
+        { type: _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormBuilder"] },
+        { type: _shared_services_email_service_email_service__WEBPACK_IMPORTED_MODULE_3__["EmailService"] }
+    ]; };
+    RequestQouteComponent = __decorate([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"])({
+            selector: 'app-request-qoute',
+            template: __webpack_require__(/*! raw-loader!./request-qoute.component.html */ "./node_modules/raw-loader/index.js!./src/app/request-qoute/request-qoute.component.html"),
+            styles: [__webpack_require__(/*! ./request-qoute.component.css */ "./src/app/request-qoute/request-qoute.component.css")]
+        }),
+        __metadata("design:paramtypes", [ngx_toastr__WEBPACK_IMPORTED_MODULE_1__["ToastrService"], _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormBuilder"], _shared_services_email_service_email_service__WEBPACK_IMPORTED_MODULE_3__["EmailService"]])
+    ], RequestQouteComponent);
+    return RequestQouteComponent;
 }());
 
 
